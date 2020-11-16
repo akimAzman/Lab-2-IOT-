@@ -11,3 +11,4 @@ class SavingsAccount(BankAccount):
         self._balance = self._balance + (self._balance * self._interestRate)
         return self._balance
 
+;
